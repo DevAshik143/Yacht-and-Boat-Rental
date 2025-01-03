@@ -1,0 +1,307 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/flaticon57ce.eot?lxajp0');
+    src:  url('../fonts/flaticon57ce.eot?lxajp0#iefix') format('embedded-opentype'),
+      url('../fonts/flaticon57ce.ttf?lxajp0') format('truetype'),
+      url('../fonts/flaticon57ce.woff?lxajp0') format('woff'),
+      url('../fonts/flaticon57ce.svg?lxajp0#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-location-plane:before {
+    content: "\e958";
+  }
+  .icon-calendar-clock:before {
+    content: "\e959";
+  }
+  .icon-kitchen-helper:before {
+    content: "\e95a";
+  }
+  .icon-old-phone:before {
+    content: "\e948";
+  }
+  .icon-radar:before {
+    content: "\e949";
+  }
+  .icon-wifi:before {
+    content: "\e94a";
+  }
+  .icon-america .path1:before {
+    content: "\e94b";
+    color: rgb(240, 240, 240);
+  }
+  .icon-america .path2:before {
+    content: "\e94c";
+    margin-left: -1em;
+    color: rgb(216, 0, 39);
+  }
+  .icon-america .path3:before {
+    content: "\e94d";
+    margin-left: -1em;
+    color: rgb(0, 82, 180);
+  }
+  .icon-bangladesh .path1:before {
+    content: "\e94e";
+    color: rgb(0, 153, 0);
+  }
+  .icon-bangladesh .path2:before {
+    content: "\e94f";
+    margin-left: -1em;
+    color: rgb(250, 1, 1);
+  }
+  .icon-bathtub:before {
+    content: "\e950";
+  }
+  .icon-calendar-minus:before {
+    content: "\e951";
+  }
+  .icon-calendar-plus:before {
+    content: "\e952";
+  }
+  .icon-clock:before {
+    content: "\e953";
+  }
+  .icon-dislike:before {
+    content: "\e954";
+  }
+  .icon-like:before {
+    content: "\e955";
+  }
+  .icon-user-plus:before {
+    content: "\e956";
+  }
+  .icon-wake-call:before {
+    content: "\e957";
+  }
+  .icon-air-conditioning:before {
+    content: "\e93d";
+  }
+  .icon-air-conditioning1:before {
+    content: "\e93e";
+  }
+  .icon-audio:before {
+    content: "\e93f";
+  }
+  .icon-cooker:before {
+    content: "\e940";
+  }
+  .icon-generator:before {
+    content: "\e941";
+  }
+  .icon-hair-dryer:before {
+    content: "\e942";
+  }
+  .icon-heating:before {
+    content: "\e943";
+  }
+  .icon-kitchen-utensils:before {
+    content: "\e944";
+  }
+  .icon-led-tv:before {
+    content: "\e945";
+  }
+  .icon-shower:before {
+    content: "\e946";
+  }
+  .icon-towel:before {
+    content: "\e947";
+  }
+  .icon-love:before {
+    content: "\e93c";
+  }
+  .icon-right:before {
+    content: "\e93a";
+  }
+  .icon-skippr:before {
+    content: "\e93b";
+  }
+  .icon-left:before {
+    content: "\e931";
+  }
+  .icon-left-arrow:before {
+    content: "\e938";
+  }
+  .icon-planing:before {
+    content: "\e939";
+  }
+  .icon-oar-converted:before {
+    content: "\e92f";
+  }
+  .icon-star-rank:before {
+    content: "\e930";
+  }
+  .icon-canoe:before {
+    content: "\e932";
+  }
+  .icon-direction:before {
+    content: "\e933";
+  }
+  .icon-guard:before {
+    content: "\e934";
+  }
+  .icon-logout:before {
+    content: "\e935";
+  }
+  .icon-shop:before {
+    content: "\e936";
+  }
+  .icon-quote:before {
+    content: "\e937";
+  }
+  .icon-linkedin:before {
+    content: "\e90e";
+  }
+  .icon-tv-music:before {
+    content: "\e92e";
+  }
+  .icon-chat:before {
+    content: "\e900";
+  }
+  .icon-date:before {
+    content: "\e901";
+  }
+  .icon-instagram:before {
+    content: "\e902";
+  }
+  .icon-phone-receiver:before {
+    content: "\e903";
+  }
+  .icon-pinterest:before {
+    content: "\e904";
+  }
+  .icon-twitter:before {
+    content: "\e905";
+  }
+  .icon-arrow-right:before {
+    content: "\e906";
+  }
+  .icon-boat-anchor:before {
+    content: "\e907";
+  }
+  .icon-dollar:before {
+    content: "\e908";
+  }
+  .icon-earth:before {
+    content: "\e909";
+  }
+  .icon-facebook:before {
+    content: "\e90a";
+  }
+  .icon-helm:before {
+    content: "\e90b";
+  }
+  .icon-right-arrow:before {
+    content: "\e90c";
+  }
+  .icon-ship:before {
+    content: "\e90d";
+  }
+  .icon-wifi-router:before {
+    content: "\e90f";
+  }
+  .icon-achieve-star:before {
+    content: "\e910";
+  }
+  .icon-calendar-off:before {
+    content: "\e911";
+  }
+  .icon-check-mark:before {
+    content: "\e912";
+  }
+  .icon-downward-arrow:before {
+    content: "\e913";
+  }
+  .icon-mechanic:before {
+    content: "\e914";
+  }
+  .icon-next-double:before {
+    content: "\e915";
+  }
+  .icon-people-3:before {
+    content: "\e916";
+  }
+  .icon-planet-earth:before {
+    content: "\e917";
+  }
+  .icon-right-double:before {
+    content: "\e918";
+  }
+  .icon-square-ruler:before {
+    content: "\e919";
+  }
+  .icon-calendar:before {
+    content: "\e91a";
+  }
+  .icon-down:before {
+    content: "\e91b";
+  }
+  .icon-down-arrow:before {
+    content: "\e91c";
+  }
+  .icon-email:before {
+    content: "\e91d";
+  }
+  .icon-envelope:before {
+    content: "\e91e";
+  }
+  .icon-next:before {
+    content: "\e91f";
+  }
+  .icon-padlock:before {
+    content: "\e920";
+  }
+  .icon-pin-regular:before {
+    content: "\e921";
+  }
+  .icon-pin-solid:before {
+    content: "\e922";
+  }
+  .icon-right-arrow-angle:before {
+    content: "\e923";
+  }
+  .icon-half-star:before {
+    content: "\e924";
+  }
+  .icon-mail:before {
+    content: "\e925";
+  }
+  .icon-plus-1:before {
+    content: "\e926";
+  }
+  .icon-plus-2:before {
+    content: "\e927";
+  }
+  .icon-quotation:before {
+    content: "\e928";
+  }
+  .icon-screwdriver:before {
+    content: "\e929";
+  }
+  .icon-selling-boat:before {
+    content: "\e92a";
+  }
+  .icon-share:before {
+    content: "\e92b";
+  }
+  .icon-star:before {
+    content: "\e92c";
+  }
+  .icon-user:before {
+    content: "\e92d";
+  }
